@@ -1,7 +1,7 @@
 {
   "levels":{
-    "1":"AAA",
-    "2":"AAA",
-    "3":"AAA",
+    "1":["AAA",0,"Dillon"],
+    "2":["AAAB",1,"LodFIr"],
+    "3":["AAAC",2,"cabalaba"],
   }
 }
